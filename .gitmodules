@@ -1,0 +1,6 @@
+[submodule "django_env/lib/yz_js_django_tpl"]
+	path = django_env/lib/yz_js_django_tpl
+	url = git@github.com:comolongo/Yz-Javascript-Django-Template-Compiler.git
+[submodule "django_env/static/js/lib/yzKbnav"]
+	path = django_env/static/js/lib/yzKbnav
+	url = git@github.com:comolongo/yzKbNav.git
