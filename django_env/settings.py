@@ -102,6 +102,7 @@ TEMPLATE_DIRS = (
 )
 sys.path.append(os.path.join(ROOT_PATH, 'lib'))
 sys.path.append(os.path.join(ROOT_PATH, 'lib/yz_js_django_tpl'))
+sys.path.append(os.path.join(ROOT_PATH, 'lib/yz_js_django_tpl/yz_djs_demo_app'))
 
 INSTALLED_APPS = (
      'appengine_django',
